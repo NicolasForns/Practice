@@ -50,3 +50,19 @@ img, video, audio {
 button, input, textarea, select {
     font: inherit;
 }
+
+.block {
+    display: block;
+}
+
+.inline {
+    display: inline;
+}
+
+.inline-block {
+    display: inline-block;
+}
+
+.hidden {
+    display: hidden;
+}
