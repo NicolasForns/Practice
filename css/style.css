@@ -42,6 +42,14 @@ table {
     border-spacing: 0;
 }
 
+.bg-gray {
+    background-color: rgb(22, 5, 61);
+}
+
+.font-white {
+    color: #ffffff;
+}
+
 img, video, audio {
     max-width: 100%;
     height: auto;
@@ -65,4 +73,8 @@ button, input, textarea, select {
 
 .hidden {
     display: hidden;
+}
+
+.flex {
+    display: flex;
 }
